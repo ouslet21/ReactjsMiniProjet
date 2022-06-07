@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "629e7a7fb81a94f49ecbe16f"
+  },
+  "nom": "IPHONE 11 64 GO NOIR",
+  "reference": "22874",
+  "prix": 2359,
+  "qtestock": 20,
+  "photo": "iphone-11-64-go-noir-.jpg",
+  "decription": "RAM: 4Go -Stockage: 64Go -Caméra: 12 MP (large) + 12 MP (ultralarge) -Selfie: 12 MP (large)",
+  "marques": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e7affb81a94f49ecbe17a"
+  },
+  "nom": "IPHONE 12 64 GO BLANC",
+  "reference": "425456",
+  "prix": 3962,
+  "qtestock": 20,
+  "photo": "iphone-12-64-go-blanc.jpg",
+  "decription": "Appareil photo Arriere: Double 12 MP (large)+ 12 MP (ultralarge)  -Selfie: 12 MP",
+  "marques": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e7b7db81a94f49ecbe182"
+  },
+  "nom": "IPHONE 12 PRO MAX 128GO GRAPHITE",
+  "reference": "57458",
+  "prix": 4963,
+  "qtestock": 20,
+  "photo": "iphone-12-pro-max-128go-graphite-.jpg",
+  "decription": "12Mp (wide)+ 12Mp (telephoto)+ 12Mp  (ultrawide)-Selfie:  12MP (wide)",
+  "marques": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e7be8b81a94f49ecbe18b"
+  },
+  "nom": "IPHONE 13 128GO NOIR",
+  "reference": "58558686",
+  "prix": 4099,
+  "qtestock": 20,
+  "photo": "iphone-13-128-go-noir.jpg",
+  "decription": "12Mp (wide)+ 12Mp (telephoto) -Selfie:  12MP (wide)-Vidéo: 4K, 1080p",
+  "marques": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e7c65b81a94f49ecbe193"
+  },
+  "nom": "LENOVO K13 (2/32GO) ROUGE",
+  "reference": "574588544",
+  "prix": 369,
+  "qtestock": 100,
+  "photo": "smartphone-lenovo-k13-note-4128go-bleu.jpg",
+  "decription": "tockage: 32Go extensible via microSD jusqu'a 512Go APN Arrières: dual 13Mp +2Mp Selfie: 5Mp Connectivité: Wi-Fi, Bluetooth",
+  "marques": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e7cbfb81a94f49ecbe19b"
+  },
+  "nom": "SMARTPHONE SAMSUNG GALAXY A23 ",
+  "reference": "44757575",
+  "prix": 985,
+  "qtestock": 20,
+  "photo": "smartphone-samsung-galaxy-a23-4-64go-noir.jpg",
+  "decription": "Android 12 CPU: Octa Core (2,4 GHz + 1,9 GHz) RAM: 4Go Stockage: 64Go APN arrière: 50 MP (large) + 5 MP (ultralarge) + 2 MP (macro) + 2 MP (profondeur) Selfie: 8Mp",
+  "marques": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e7d40b81a94f49ecbe1ab"
+  },
+  "nom": "SMARTPHONE OPPO RENO 7 (8-256GO) ORANGE",
+  "reference": "5252524",
+  "prix": 1499,
+  "qtestock": 20,
+  "photo": "smartphone-oppo-reno-7-8-256go-orange.jpg",
+  "decription": "RAM: 8Go - Stockage: 256Go - APN Arriére: Triple 64MP + 2MP + 2MP -Selfie: 32MP - Connctivité: 4G, Dual SIM  Wifi, GPS, Bluetooth5.1",
+  "marques": [],
+  "__v": 0
+}]

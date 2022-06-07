@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "629e504f60569a5567835785"
+  },
+  "nom": "mariem",
+  "adress": "rte mehdia km 2.5",
+  "email": "mariem1@mariem1.com",
+  "password": "$2b$10$A2HkXf0dDUpnuz6bTTCyWOAH5GlJEyOWoeC35R8H1Hj9xgWsvH6VW",
+  "role": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e50a860569a5567835787"
+  },
+  "nom": "Ouesleti Mariem",
+  "adress": "rte mehdia km 3.5",
+  "email": "mariem2@mariem2.com",
+  "password": "$2b$10$E41/Y02aTNQxwENvrnXLKO7A3tPZmud7FYpChAJL6/SQ1iZ17.KFS",
+  "role": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e580360569a5567835799"
+  },
+  "nom": "test@test.com",
+  "adress": "rte tunis",
+  "email": "test@test.com",
+  "password": "$2b$10$b7m6IHhseqbL6NJugA/AdOYYvWKa0KnF8Jtn9O5AUoslJhBK/gCuW",
+  "role": 0,
+  "__v": 0
+}]

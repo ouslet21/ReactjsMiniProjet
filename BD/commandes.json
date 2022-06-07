@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "629e580760569a556783579d"
+  },
+  "total": 5025,
+  "refclient": {
+    "$oid": "629e580360569a5567835799"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654544391574"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654544391574"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e5c37b7ac723ec188ff4b"
+  },
+  "total": 50,
+  "refclient": {
+    "$oid": "629e580360569a5567835799"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654545463868"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654545463868"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e612e7dbd02880d8d64eb"
+  },
+  "total": 25,
+  "refclient": {
+    "$oid": "629e580360569a5567835799"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654546734284"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654546734284"
+    }
+  },
+  "__v": 0
+}]

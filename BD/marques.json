@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "629df4438e97c93b3757ffaa"
+  },
+  "nommarque": "Samsung",
+  "email": "support@samsung.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e772bb81a94f49ecbe10f"
+  },
+  "nommarque": "Apple",
+  "email": "support@Apple.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e7762b81a94f49ecbe111"
+  },
+  "nommarque": "Lenovo",
+  "email": "support@Lenovo.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e776eb81a94f49ecbe113"
+  },
+  "nommarque": "Oppo",
+  "email": "support@Oppo.com",
+  "__v": 0
+}]

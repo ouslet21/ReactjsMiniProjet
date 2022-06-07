@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "629e5c37b7ac723ec188ff50"
+  },
+  "quantitecommandee": 2,
+  "totligne": 50,
+  "refarticle": {
+    "$oid": "629e4126c52d4f6eb9399267"
+  },
+  "refcommande": {
+    "$oid": "629e5c37b7ac723ec188ff4b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629e612e7dbd02880d8d64ee"
+  },
+  "quantitecommandee": 1,
+  "totligne": 25,
+  "refarticle": {
+    "$oid": "629e4126c52d4f6eb9399267"
+  },
+  "refcommande": {
+    "$oid": "629e612e7dbd02880d8d64eb"
+  },
+  "__v": 0
+}]
